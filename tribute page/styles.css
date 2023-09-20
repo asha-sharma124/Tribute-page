@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+#tribute-info {
+    text-align: center;
+}
+img{ height: 350px;
+}
+#tribute-info img {
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+#tribute-content {
+    margin-top: 20px;
+}
+
+h3 { font-size: 25px;
+    color: #333;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+/* Add more CSS styles to customize your tribute page further */
